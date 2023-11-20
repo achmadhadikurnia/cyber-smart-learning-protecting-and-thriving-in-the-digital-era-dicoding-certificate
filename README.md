@@ -8,13 +8,12 @@ Dalam era digital yang terus berkembang, kesadaran tentang cybersecurity sangat 
 Pada sesi kedua IDCamp x Dicoding LIVE kali ini akan memberikan wawasan tentang teknologi terkini yang mendukung keamanan digital bersama seseoarang ahli industri yang memiliki pengalaman luas dalam keamanan digital  yaitu Milton Siahaan (CISSP CCSP - Cybersecurity, Zero Trust and Cloud Security Enthusiast and Practitioner). Di sesi kali ini kita akan kupas tuntas mengenai cybersecurity dan seluk-beluknya "Cyber-Smart: Learning, Protecting, and Thriving in the Digital Era"
 
 ## Rundown
-
 | Time          | Session                                                                                                                                                                                                                    |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 19.00 - 19.10 | Pembukaan oleh moderator (Abdul Hafiidh Priyanto - Product Engineer at Dicoding Indonesia).                                                                                                                                |
 | 19.10 - 19.55 | Pembahasan materi oleh pembicara (Milton Siahaan CISSP CCSP - Cybersecurity, Zero Trust and Cloud Security Enthusiast and Practitioner) dengan materi "Cyber-Smart: Learning, Protecting, and Thriving in the Digital Era" |
 | 19.55 - 20.20 | QnA                                                                                                                                                                                                                        |
-| 20.20 - 20.30 | Penutup.
+| 20.20 - 20.30 | Penutup.                                                                                                                                                                                                                   |
 
 ## Event
 [View](https://www.dicoding.com/events/5980)
